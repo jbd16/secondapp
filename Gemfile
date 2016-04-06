@@ -72,6 +72,10 @@ group :production do
 
 end
 
+group :development do
+	gem 'devise' 
+end
+
 
 
 
